@@ -1,5 +1,12 @@
 ### Hi there 👋
+I'm a seasoned Data Engineer, Web Developer, and DevOps specialist based in New York. With over five years of diverse industry experience, I excel in designing and implementing robust backend systems, data pipelines, and data warehousing solutions. My expertise extends to ETL/ELT processes, data modeling, integration, cleansing, and governance. Proficient in Python, TypeScript, and SQL, I have a strong grasp of Big Data technologies like Airflow, Databricks, and Spark, along with cloud platforms such as AWS. Skilled in visualization tools like Tableau, Periscope, and MixPanel, I have a proven track record of delivering valuable insights through dashboards and machine learning models. My commitment to optimizing performance, ensuring data quality, and driving impactful results has consistently contributed to the success of projects under my stewardship.
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+![Dharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharsan18&show_icons=true&theme=radical)
 <!--
 **dharsan18/dharsan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
